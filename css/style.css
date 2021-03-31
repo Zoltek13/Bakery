@@ -1248,7 +1248,7 @@ body.lock {
 
 .breakfast {
   padding: 90px 40px 90px;
-  background: url("../img/your-menu.jpg") center/cover no-repeat;
+  background: url("../img/your-menu-bg.jpg") center/cover no-repeat;
   position: relative;
   z-index: 2;
 }
@@ -2712,7 +2712,7 @@ body.ie .ibg img {
 
 .webp .ready-tasty{ background: url(../img/ready-tasty-bgt.webp) center/cover no-repeat; }
 
-.webp .breakfast{ background: url(../img/your-menu.webp) center/cover no-repeat; }
+.webp .breakfast{ background: url(../img/your-menu-bg.webp) center/cover no-repeat; }
 
 .webp .breakfast::before{ background: url(../img/your-menu.webp) center/cover no-repeat; }
 
